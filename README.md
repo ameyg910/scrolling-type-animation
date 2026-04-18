@@ -1,4 +1,4 @@
-# 🎬 Janani Vikalakshi - Premium Scrollytelling Landing Page
+# 🎬 Premium Scrollytelling Landing Page
 
 A world-class, **Awwwards-level** scrollytelling experience featuring scroll-linked video animation with cinematic text overlays, built with **Next.js 14**, **Framer Motion**, and **Tailwind CSS**.
 
@@ -26,6 +26,9 @@ npm install
 # Start development server
 npm run dev
 ```
+### You can use this template using your own video
+
+first clone the github repo then run this command cp your-video-name.mp4 public/videos/janani-vikalakshi.mp4
 
 Open [http://localhost:3000](http://localhost:3000) to see your scrollytelling experience.
 
