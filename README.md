@@ -28,7 +28,13 @@ npm run dev
 ```
 ### You can use this template using your own video
 
-first clone the github repo then run this command cp your-video-name.mp4 public/videos/janani-vikalakshi.mp4
+first clone the github repo then run this command
+
+```bash
+cp your-video-name.mp4 public/videos/janani-vikalakshi.mp4
+```
+
+the code will adjust the video accordingly by itself.
 
 Open [http://localhost:3000](http://localhost:3000) to see your scrollytelling experience.
 
